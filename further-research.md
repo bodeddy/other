@@ -62,6 +62,8 @@
 - [MDN Web Docs Glossary: Definitions of Web-related terms](https://developer.mozilla.org/en-US/docs/Glossary)
 - [Visual Studio Code documentation](https://code.visualstudio.com/docs)
 - [Linux man pages](https://linux.die.net/man/)
+- [DevDocs API Documentation](https://devdocs.io/)
+
 
 
 ## Additional resources
