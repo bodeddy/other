@@ -48,6 +48,8 @@
 ### Git basics
 
 ### HTML foundations
+**HTML boilerplate**
+- UTF-8 and character sets
 
 
 ## Possible jobs
