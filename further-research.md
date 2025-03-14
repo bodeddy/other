@@ -65,7 +65,7 @@
 - [Visual Studio Code documentation](https://code.visualstudio.com/docs)
 - [Linux man pages](https://linux.die.net/man/)
 - [DevDocs API Documentation](https://devdocs.io/)
-
+- [W3 HTML validator](https://validator.w3.org/#validate_by_input)
 
 
 ## Additional resources
