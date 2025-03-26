@@ -51,6 +51,11 @@
 **HTML boilerplate**
 - UTF-8 and character sets
 
+**Links and images**
+- noopener and noreferrer
+    - [Tabnapping](https://owasp.org/www-community/attacks/Reverse_Tabnabbing)
+- [Basics: anatomy of a URL](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL#basics_anatomy_of_a_url)
+
 
 ## Possible jobs
 - Web developer
