@@ -58,6 +58,10 @@
 - Best practice for writing alternative text for images.
 - Difference between pixel-based image formats and vector-based graphics
 
+**Commit messages**
+- Atomic commits
+- [Developer Tip: Keep Your Commits “Atomic”](https://www.freshconsulting.com/insights/blog/atomic-commits/)
+
 
 ## Possible jobs
 - Web developer
