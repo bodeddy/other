@@ -63,6 +63,9 @@
 - [Developer Tip: Keep Your Commits “Atomic”](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 
 
+### CSS foundations
+
+
 ## Possible jobs
 - Web developer
 - Junior developer
@@ -85,6 +88,8 @@
 - [Learn enough command line to be dangerous](https://www.learnenough.com/command-line-tutorial)
 - Study the GitHub documentation
 - [Pro Git book](https://git-scm.com/book/en/v2)
+- [GitHub Skills](https://skills.github.com/)
+
 
 
 
