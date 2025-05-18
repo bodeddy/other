@@ -65,6 +65,8 @@
 
 ### CSS foundations
 - [Normal layout flow](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Introduction#normal_layout_flow)
+- [Inheriting box-sizing probably slightly better best-practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+- [Mastering margin collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Mastering_margin_collapsing)
 
 
 ## Possible jobs
