@@ -64,6 +64,7 @@
 
 
 ### CSS foundations
+- [Normal layout flow](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Introduction#normal_layout_flow)
 
 
 ## Possible jobs
