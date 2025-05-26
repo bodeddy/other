@@ -85,7 +85,7 @@
 - [W3 HTML validator](https://validator.w3.org/#validate_by_input)
 - [Can I use](https://caniuse.com/)
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-
+- [CSS web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
 
 
 ## Additional resources
