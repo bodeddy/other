@@ -69,6 +69,9 @@
 - [Mastering margin collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Mastering_margin_collapsing)
 
 
+### Introduction to Flexbox
+
+
 ## Possible jobs
 - Web developer
 - Junior developer
@@ -93,6 +96,7 @@
 - Study the GitHub documentation
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
+- [Interneting is hard](https://internetingishard.netlify.app/)
 
 
 
