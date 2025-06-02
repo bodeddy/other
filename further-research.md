@@ -90,6 +90,7 @@
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [CSS web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)
+- [Flexbox visual cheatsheet](https://flexbox.malven.co/)
 
 
 ## Additional resources
