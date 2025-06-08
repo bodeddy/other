@@ -70,6 +70,8 @@
 
 
 ### Introduction to Flexbox
+**Alignment**
+- Order in css
 
 
 ## Possible jobs
@@ -91,6 +93,7 @@
 - [CSS web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)
 - [Flexbox visual cheatsheet](https://flexbox.malven.co/)
+- [CSS Flexbox layout guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 ## Additional resources
