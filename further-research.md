@@ -94,6 +94,7 @@
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)
 - [Flexbox visual cheatsheet](https://flexbox.malven.co/)
 - [CSS Flexbox layout guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)
 
 
 ## Additional resources
