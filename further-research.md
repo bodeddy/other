@@ -74,12 +74,20 @@
 - Order in css
 
 
+### JavaScript basics
+**Variables and operators**
+- Problems with using var
+- Environment variables
+- Naming conventions for constants, particularly hard-coded variables
+- Exponentiation 
+
+
 ## Possible jobs
 - Web developer
 - Junior developer
 
 
-## Important sites
+## Useful sites
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - Stack Overflow
 - [W3C validator](https://validator.w3.org/)
@@ -95,6 +103,7 @@
 - [Flexbox visual cheatsheet](https://flexbox.malven.co/)
 - [CSS Flexbox layout guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)
+- [Variables](https://javascript.info/variables) (this site is good particularly for rules around naming variables)
 
 
 ## Additional resources
