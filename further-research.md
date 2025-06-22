@@ -81,6 +81,7 @@
 - Naming conventions for constants, particularly hard-coded variables
 - Exponentiation 
 - Base-16, base-8 etc
+- What are constructors?
 
 
 ## Possible jobs
