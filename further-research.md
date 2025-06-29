@@ -82,6 +82,11 @@
 - Exponentiation 
 - Base-16, base-8 etc
 - What are constructors?
+- Increment/decrement operators
+- 32-bit integer numbers
+- [Bitwise operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#bitwise_operators)
+- Differences between == and ===
+
 
 
 ## Possible jobs
