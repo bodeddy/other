@@ -122,6 +122,10 @@
 - [Josh Comeau's articals and tutorials](https://www.joshwcomeau.com/)
 
 
+## Interesting uses of JavaScript
+- [WebGL samples](https://webglsamples.org/);
+- [Chrome experiments](https://experiments.withgoogle.com/collection/chrome);
+
 
 
 -# This is how you write subtext
