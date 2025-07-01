@@ -86,6 +86,9 @@
 - 32-bit integer numbers
 - [Bitwise operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#bitwise_operators)
 - Differences between == and ===
+- [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- Interpreted vs compiled code
+- Server-side vs client-side code
 
 
 
