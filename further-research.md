@@ -89,6 +89,8 @@
 - [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 - Interpreted vs compiled code
 - Server-side vs client-side code
+- [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+- [Website security](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Website_security)
 
 
 
@@ -114,6 +116,7 @@
 - [CSS Flexbox layout guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)
 - [Variables](https://javascript.info/variables) (this site is good particularly for rules around naming variables)
+- [How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/set_up_a_local_testing_server)
 
 
 ## Additional resources
