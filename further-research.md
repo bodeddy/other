@@ -91,6 +91,8 @@
 - Server-side vs client-side code
 - [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
 - [Website security](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Website_security)
+- Compiling vs transpiling
+- [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 
 
@@ -133,5 +135,3 @@
 - [Chrome experiments](https://experiments.withgoogle.com/collection/chrome);
 
 
-
--# This is how you write subtext
