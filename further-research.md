@@ -49,7 +49,7 @@
 
 ### HTML foundations
 **HTML boilerplate**
-- UTF-8 and character sets
+- UTF-8, UTF-16, and character sets
 
 **Links and images**
 - noopener and noreferrer
@@ -93,6 +93,10 @@
 - [Website security](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Website_security)
 - Compiling vs transpiling
 - [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+**Data types and conditionals**
+- [Template literals (template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- Immutable in JavaScript
 
 
 
