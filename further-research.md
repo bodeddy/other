@@ -50,6 +50,7 @@
 ### HTML foundations
 **HTML boilerplate**
 - UTF-8, UTF-16, and character sets
+- Unicode in general
 
 **Links and images**
 - noopener and noreferrer
@@ -100,6 +101,8 @@
 - [isWellFormed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/isWellFormed)
     - [lone surrogates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#utf-16_characters_unicode_code_points_and_grapheme_clusters)
 - Regular expressions
+- Null, undefined and strict equality
+- Logical operators
 
 
 
@@ -127,6 +130,7 @@
 - [Variables](https://javascript.info/variables) (this site is good particularly for rules around naming variables)
 - [How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/set_up_a_local_testing_server)
 - [Complete JavaScript and HTML DOM references](https://www.w3schools.com/jsref/default.asp)
+- [Exhaustive reference for strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 
 ## Additional resources
