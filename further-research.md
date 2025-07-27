@@ -103,6 +103,10 @@
 - Regular expressions
 - Null, undefined and strict equality
 - Logical operators
+- [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator)
+- What is meant by 'arbitrary expressions'
+- Future-proof code
+- The 8 data types in JavaScript, especially symbol
 
 
 
