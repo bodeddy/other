@@ -107,6 +107,9 @@
 - What is meant by 'arbitrary expressions'
 - Future-proof code
 - The 8 data types in JavaScript, especially symbol
+- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern)
+    - Tried reading this, but it's difficult. Revisit
+- [JavaScript Info's Regular Expressions](https://javascript.info/regular-expressions)
 
 
 
@@ -135,6 +138,7 @@
 - [How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/set_up_a_local_testing_server)
 - [Complete JavaScript and HTML DOM references](https://www.w3schools.com/jsref/default.asp)
 - [Exhaustive reference for strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions#specifications)
 
 
 ## Additional resources
