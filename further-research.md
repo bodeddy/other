@@ -111,6 +111,12 @@
     - Tried reading this, but it's difficult. Revisit
 - [JavaScript Info's Regular Expressions](https://javascript.info/regular-expressions)
 
+**JavaScript developer tools**
+- CSS pseudostate
+- [Specificity in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Specificity)
+- [Custom properties (--*): CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+- [Using CSS custom properties (variables)](http://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties)
+- HTML vs DOM
 
 
 ## Possible jobs
