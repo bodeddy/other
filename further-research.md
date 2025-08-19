@@ -117,6 +117,14 @@
 - [Custom properties (--*): CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 - [Using CSS custom properties (variables)](http://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties)
 - HTML vs DOM
+- Pixels
+    - [Device pixel ratio (DPR)](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
+- Throttling network and CPU
+- Closure variables
+- Exception in JavaScript
+- [XMLHttpRequest (XHR)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+- [Trusted types API](https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API)
+- [What are source maps?](https://web.dev/articles/source-maps)
 
 
 ## Possible jobs
