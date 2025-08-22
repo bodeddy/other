@@ -125,6 +125,15 @@
 - [XMLHttpRequest (XHR)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 - [Trusted types API](https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API)
 - [What are source maps?](https://web.dev/articles/source-maps)
+- [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API#worker_types)
+- [Shared Storage API](https://privacysandbox.google.com/private-advertising/shared-storage#how-does-shared-storage-work)
+- [Cross Site Scripting (XSS)](https://owasp.org/www-community/attacks/xss/)
+- [Trusted Types API](https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API)
+- [Read-eval-print loop (REPL)](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+
+**Function basics**
+- Built-in browser functions
+- Browser APIs
 
 
 ## Possible jobs
