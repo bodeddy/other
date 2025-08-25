@@ -134,6 +134,9 @@
 **Function basics**
 - Built-in browser functions
 - Browser APIs
+- Anonymous functions
+- Arrow functions
+- [Callback functions in JavaScript](https://www.impressivewebs.com/callback-functions-javascript/)
 
 
 ## Possible jobs
@@ -162,6 +165,7 @@
 - [Complete JavaScript and HTML DOM references](https://www.w3schools.com/jsref/default.asp)
 - [Exhaustive reference for strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions#specifications)
+- [JavaScript's standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 
 
 ## Additional resources
@@ -171,6 +175,8 @@
 - [GitHub Skills](https://skills.github.com/)
 - [Interneting is hard](https://internetingishard.netlify.app/)
 - [Josh Comeau's articals and tutorials](https://www.joshwcomeau.com/)
+- [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+- [Vim documentation](https://www.vim.org/docs.php)
 
 
 ## Interesting uses of JavaScript
