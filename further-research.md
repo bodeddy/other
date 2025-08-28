@@ -137,6 +137,8 @@
 - Anonymous functions
 - Arrow functions
 - [Callback functions in JavaScript](https://www.impressivewebs.com/callback-functions-javascript/)
+- Nullish coalescing operator ??
+- When to use function expressions instead of function declarations.
 
 
 ## Possible jobs
