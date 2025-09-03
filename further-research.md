@@ -140,6 +140,14 @@
 - Nullish coalescing operator ??
 - When to use function expressions instead of function declarations.
 - [JavaScript Info's Arrow functions revisited](https://javascript.info/arrow-functions)
+- Recursion functions
+- JavaScript call stack
+- Stack overflow
+- Hoisting
+    - [The secret of hoisting in JavaScript](https://dev.to/godcrampy/the-secret-of-hoisting-in-javascript-egi)
+
+**Problem solving**
+- [For](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
 
 ## Possible jobs
