@@ -148,6 +148,7 @@
 
 **Problem solving**
 - [For](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+- Difference between recursion and iteration
 
 
 ## Possible jobs
@@ -177,6 +178,7 @@
 - [Exhaustive reference for strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions#specifications)
 - [JavaScript's standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+- [V. Anton Spraul](https://vantonspraul.com/wp/)
 
 
 ## Additional resources
@@ -188,6 +190,7 @@
 - [Josh Comeau's articals and tutorials](https://www.joshwcomeau.com/)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 - [Vim documentation](https://www.vim.org/docs.php)
+- [Think like a programmer: An introduction to creative problem solving](https://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf)
 
 
 ## Interesting uses of JavaScript
