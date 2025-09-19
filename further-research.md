@@ -150,6 +150,9 @@
 - [For](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 - Difference between recursion and iteration
 
+**Understanding errors**
+- What is a serialized object in JavaScript
+
 
 ## Possible jobs
 - Web developer
@@ -179,6 +182,7 @@
 - [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions#specifications)
 - [JavaScript's standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [V. Anton Spraul](https://vantonspraul.com/wp/)
+- [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
 
 
 ## Additional resources
