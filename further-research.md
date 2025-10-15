@@ -153,6 +153,9 @@
 **Understanding errors**
 - What is a serialized object in JavaScript
 
+**Loops and arrays**
+- [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#labeled_statement)
+
 
 ## Possible jobs
 - Web developer
