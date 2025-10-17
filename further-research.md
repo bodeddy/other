@@ -155,6 +155,9 @@
 
 **Loops and arrays**
 - [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#labeled_statement)
+- [The "for..in" loop](https://javascript.info/object#forin)
+- [Loops](https://javascript.info/array#loops)
+- [Iterables](https://javascript.info/iterable)
 
 
 ## Possible jobs
