@@ -158,6 +158,9 @@
 - [The "for..in" loop](https://javascript.info/object#forin)
 - [Loops](https://javascript.info/array#loops)
 - [Iterables](https://javascript.info/iterable)
+- Labels for loops to break or continue
+- Pre- and postfix ++ and any other operators for loops
+- [Polygills and transpilers](https://javascript.info/polyfills)
 
 
 ## Possible jobs
@@ -202,6 +205,11 @@
 - [Vim documentation](https://www.vim.org/docs.php)
 - [Think like a programmer: An introduction to creative problem solving](https://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf)
 - [Structure and interpretation of computer programs](https://web.archive.org/web/20061225105851/http://mitpress.mit.edu/sicp/full-text/book/book.html)
+
+
+## Computer science learning
+- [Queue (abstract data type)](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+- [Double-ended queue](https://en.wikipedia.org/wiki/Double-ended_queue)
 
 
 ## Interesting uses of JavaScript
