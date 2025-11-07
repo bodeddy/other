@@ -161,6 +161,9 @@
 - Labels for loops to break or continue
 - Pre- and postfix ++ and any other operators for loops
 - [Polygills and transpilers](https://javascript.info/polyfills)
+- [Object to primitive conversion](https://javascript.info/object-toprimitive)
+- [Type conversions](https://javascript.info/type-conversions)
+- Array methods
 
 
 ## Possible jobs
