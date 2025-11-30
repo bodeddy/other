@@ -164,6 +164,11 @@
 - [Object to primitive conversion](https://javascript.info/object-toprimitive)
 - [Type conversions](https://javascript.info/type-conversions)
 - Array methods
+- [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+- [Timsort](https://en.wikipedia.org/wiki/Timsort)
+- [Iterative methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#iterative_methods)
+- Iterating through loops
+- In-place modification of arrays
 
 
 ## Possible jobs
@@ -195,6 +200,7 @@
 - [JavaScript's standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [V. Anton Spraul](https://vantonspraul.com/wp/)
 - [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+- [JavaScript array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 
 ## Additional resources
