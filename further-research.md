@@ -169,6 +169,9 @@
 - [Iterative methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#iterative_methods)
 - Iterating through loops
 - In-place modification of arrays
+- [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+- [Fisher-Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+    - [Fisher-Yates shuffle card example](https://bost.ocks.org/mike/shuffle/)
 
 
 ## Possible jobs
