@@ -172,6 +172,8 @@
 - [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 - [Fisher-Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
     - [Fisher-Yates shuffle card example](https://bost.ocks.org/mike/shuffle/)
+- [Redo assignment 1 of Loops and arrays](https://www.theodinproject.com/lessons/foundations-loops-and-arrays)
+- [A brief introduction to array destructuring in ES6](https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/)
 
 
 ## Possible jobs
@@ -217,6 +219,7 @@
 - [Vim documentation](https://www.vim.org/docs.php)
 - [Think like a programmer: An introduction to creative problem solving](https://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf)
 - [Structure and interpretation of computer programs](https://web.archive.org/web/20061225105851/http://mitpress.mit.edu/sicp/full-text/book/book.html)
+- [Learn to program, Chris Pine](https://pine.fm/LearnToProgram/)
 
 
 ## Computer science learning
