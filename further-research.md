@@ -176,6 +176,13 @@
 - [A brief introduction to array destructuring in ES6](https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/)
 
 
+**DOM manipulation and events**
+- [Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- [How to prevent the most common cross site scripting attacks (video)](https://www.youtube.com/watch?v=ns1LX6mEvyM)
+- [Defer attribute](https://javascript.info/script-async-defer#defer)
+
+
+
 ## Possible jobs
 - Web developer
 - Junior developer
