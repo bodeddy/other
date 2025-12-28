@@ -16,3 +16,5 @@
 - Password generator 
 - Password manager
   - Could combine both password generator and password manager together
+- Dedication website to Daisy
+- Wikipedia but for cat oweners to create a page for their deceased pet
