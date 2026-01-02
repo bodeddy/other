@@ -213,6 +213,7 @@
 - [V. Anton Spraul](https://vantonspraul.com/wp/)
 - [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
 - [JavaScript array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [HTML DOM events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 
 ## Additional resources
