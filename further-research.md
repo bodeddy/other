@@ -180,6 +180,10 @@
 - [Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [How to prevent the most common cross site scripting attacks (video)](https://www.youtube.com/watch?v=ns1LX6mEvyM)
 - [Defer attribute](https://javascript.info/script-async-defer#defer)
+- Mouse events
+- Bubbling and capturing
+- Event delegation
+- dispatchEvent
 
 
 
