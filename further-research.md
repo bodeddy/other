@@ -184,6 +184,8 @@
 - Bubbling and capturing
 - Event delegation
 - dispatchEvent
+- How to select html elements, IDs, classes, etc, in JS
+- JavaScript custom events
 
 
 
