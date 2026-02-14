@@ -16,8 +16,8 @@ Link: https://ps.informatik.uni-tuebingen.de/teaching/ss15/sct/StudentMaterial/0
 ### Examples of good and bad pseudocode
 
 **Good**
-Keep track of the current number of resources in use
-If another resource is available
+Keep track of the current number of resources in use<br>
+If another resource is available<br>
     Allocate a dialog box structure
     If a dialogue box structure could be allocated
         Note that one more resource is in use
