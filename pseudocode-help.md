@@ -16,26 +16,26 @@ Link: https://ps.informatik.uni-tuebingen.de/teaching/ss15/sct/StudentMaterial/0
 ### Examples of good and bad pseudocode
 
 **Good**
-> Keep track of the current number of resources in use
-> If another resource is available
->     Allocate a dialog box structure
->     If a dialogue box structure could be allocated
->         Note that one more resource is in use
->         Initialize the resource
->         Store the resource number at the location provided by the caller
->     Endif
-> Endif
-> Return true if a new resource was crearted;
->     else return false
+Keep track of the current number of resources in use
+If another resource is available
+    Allocate a dialog box structure
+    If a dialogue box structure could be allocated
+        Note that one more resource is in use
+        Initialize the resource
+        Store the resource number at the location provided by the caller
+    Endif
+Endif
+Return true if a new resource was crearted;
+    else return false
 
 **Bad**
-> increment resource number by 1
-> allocate a dlg struct using malloc
-> if malloc() returns NULL then return 1
-> invoke OSrsrc_init to initialize a resource
->     for the operating system
-> *hRsrcPtr = resource number
-> return 0
+increment resource number by 1
+allocate a dlg struct using malloc
+if malloc() returns NULL then return 1
+invoke OSrsrc_init to initialize a resource
+    for the operating system
+*hRsrcPtr = resource number
+return 0
 
 ## PPP workflow
 
