@@ -16,16 +16,16 @@ Link: https://ps.informatik.uni-tuebingen.de/teaching/ss15/sct/StudentMaterial/0
 ### Examples of good and bad pseudocode
 
 **Good**
-    Keep track of the current number of resources in use<br>
-    If another resource is available<br>
-        Allocate a dialog box structure<br>
-        If a dialogue box structure could be allocated<br>
-            Note that one more resource is in use<br>
-            Initialize the resource<br>
-            Store the resource number at the location provided by the caller<br>
-        Endif<br>
-    Endif<br>
-    Return true if a new resource was crearted;else return false<br>
+> Keep track of the current number of resources in use<br>
+> If another resource is available<br>
+>     Allocate a dialog box structure<br>
+>     If a dialogue box structure could be allocated<br>
+>         Note that one more resource is in use<br>
+>         Initialize the resource<br>
+>         Store the resource number at the location provided by the caller<br>
+>     Endif<br>
+> Endif<br>
+> Return true if a new resource was crearted;else return false<br>
 
 **Bad**
 increment resource number by 1
