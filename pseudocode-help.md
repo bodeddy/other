@@ -16,25 +16,25 @@ Link: https://ps.informatik.uni-tuebingen.de/teaching/ss15/sct/StudentMaterial/0
 ### Examples of good and bad pseudocode
 
 **Good**
->     Keep track of the current number of resources in use<br>
->     If another resource is available<br>
->         Allocate a dialog box structure<br>
->         If a dialogue box structure could be allocated<br>
->             Note that one more resource is in use<br>
->             Initialize the resource<br>
->             Store the resource number at the location provided by the caller<br>
->         Endif<br>
->     Endif<br>
->     Return true if a new resource was crearted;else return false<br>
+>     Keep track of the current number of resources in use
+>     If another resource is available
+>         Allocate a dialog box structure
+>         If a dialogue box structure could be allocated
+>             Note that one more resource is in use
+>             Initialize the resource
+>             Store the resource number at the location provided by the caller
+>         Endif
+>     Endif
+>     Return true if a new resource was crearted;else return false
 
 **Bad**
-increment resource number by 1
-allocate a dlg struct using malloc
-if malloc() returns NULL then return 1
-invoke OSrsrc_init to initialize a resource
-    for the operating system
-*hRsrcPtr = resource number
-return 0
+>     increment resource number by 1
+>     allocate a dlg struct using malloc
+>     if malloc() returns NULL then return 1
+>     invoke OSrsrc_init to initialize a resource
+>         for the operating system
+>     *hRsrcPtr = resource number
+>     return 0
 
 ## PPP workflow
 
@@ -51,18 +51,18 @@ return 0
 > This routine returns a list of all students taking the SCT course in the given year, along with their final grades.
 
 **High-level pseudocode**
-> Validate the year
-> Retrieve a list of students from the database
-> Compute the final grades
-> Return the names and grades as a list
+>     Validate the year
+>     Retrieve a list of students from the database
+>     Compute the final grades
+>     Return the names and grades as a list
 
 **Mid-level pseudocode**
-> If the year is valid
->     Connect to the database and retrieve info about all students in the given year
->     Keep a list of the students and their final grades
->     For all students
->         Calculate a weighted average of the three grades
->         Add their name and final grade to the list
->     Endfor
-> Endif
-> Return the list; or return false if no list could be generated for the given year
+>     If the year is valid
+>         Connect to the database and retrieve info about all students in the given year
+>         Keep a list of the students and their final grades
+>         For all students
+>             Calculate a weighted average of the three grades
+>             Add their name and final grade to the list
+>         Endfor
+>     Endif
+>     Return the list; or return false if no list could be generated for the given year
