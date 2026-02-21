@@ -187,6 +187,8 @@
 - How to select html elements, IDs, classes, etc, in JS
 - JavaScript custom events
 
+**Object basics**
+- Object constructor vs object literal
 
 
 ## Possible jobs
