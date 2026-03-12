@@ -191,6 +191,7 @@
 - Object constructor vs object literal
 - How to check an argument is a number in JavaScript
 - Bracket notation, specifically accessing object properties in variables
+- What is instantiation in programming?
 
 
 ## Possible jobs
